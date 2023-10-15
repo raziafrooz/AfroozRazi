@@ -9,8 +9,10 @@ website:
     foreground: light
     search: true
     right:
-      - text: "Publication"
+      - text: "Publications"
         file: pub.qmd 
+      - text: "Presentations"
+        file: present.qmd
       - icon: github
         href: https://github.com/raziafrooz
       - icon: twitter
