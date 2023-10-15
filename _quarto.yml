@@ -9,6 +9,8 @@ website:
     foreground: light
     search: true
     right:
+      - text: "Presentation"
+        file: present.qmd
       - text: "Publications"
         file: pub.qmd 
       - text: "Presentations"
