@@ -2,7 +2,7 @@
 
 ## Platform Presentations:
 
--   **American Society of Human Genetics** (ASHG)2023, Washington DC. Genotype calling from expression data in Recount3
+-   **American Society of Human Genetics** (ASHG)2023, Washington DC. *Genotype calling from expression data in Recount3*
 
 -   **Bioconductor Conference** (BioC) 2023, Boston, MA. *Genotype calling from Recount3 RNA-seq data*
 
@@ -10,6 +10,6 @@
 
 ## Poster Presentations:
 
--   Human and mammalian genetics and genomics: The 64th McKusick short course (2023), Bar Harbor, ME.
+-   Human and mammalian genetics and genomics: The 64th McKusick short course (2023), Bar Harbor, ME. *Genotype calling from expression data in Recount3*
 
--   Single Cell Symposium (2023), Johns Hopkins Baltimore, MD.
+-   Single Cell Symposium (2023), Johns Hopkins Baltimore, MD. *Genotype calling from expression data in Recount3*
