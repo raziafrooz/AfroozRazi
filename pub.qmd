@@ -2,10 +2,10 @@
 
 For a list of publications, please visit [Google Scholar](https://scholar.google.com/citations?hl=en&user=JXk5t04AAAAJ).
 
-Leandros Boukas, Teresa Romeo Luperchio, **Afrooz Razi**, Kasper D Hansen, Hans T Bjornsson (2023). *Neuron-specific chromatin disruption at CpG islands and aging-related regions in Kabuki syndrome mice*. bioRxiv (under review)
+1.  Leandros Boukas, Teresa Romeo Luperchio, **Afrooz Razi**, Kasper D Hansen, Hans T Bjornsson (2023). *Neuron-specific chromatin disruption at CpG islands and aging-related regions in Kabuki syndrome mice*. bioRxiv (under review)
 
-L Boukas, **A Razi**, HT Bjornsson, KD Hansen (2022). *Natural selection acts on epigenetic marks*. bioRxiv (under review)
+2.  L Boukas, **A Razi**, HT Bjornsson, KD Hansen (2022). *Natural selection acts on epigenetic marks*. bioRxiv (under review)
 
-Rezia Era Braza, Aliyah B Silver, Ganesh S Sundar, Sarah E Davis, **Afrooz Razi,** Emrul Islam, Meaghan Hart, Jinyi Zhu, Yoann Le Breton, Kevin S McIver (2020). *Phosphotransferase system uptake and metabolism of the β-Glucoside salicin impact group A streptococcal bloodstream survival and soft tissue infection.* Infection and Immunity 88 (10), 10.1128/iai. 00346-20
+3.  Rezia Era Braza, Aliyah B Silver, Ganesh S Sundar, Sarah E Davis, **Afrooz Razi,** Emrul Islam, Meaghan Hart, Jinyi Zhu, Yoann Le Breton, Kevin S McIver (2020). *Phosphotransferase system uptake and metabolism of the β-Glucoside salicin impact group A streptococcal bloodstream survival and soft tissue infection.* Infection and Immunity 88 (10), 10.1128/iai. 00346-20
 
 # 
