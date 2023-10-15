@@ -10,8 +10,8 @@ website:
     search: true
     right:
       - text: "Presentations"
-        file: present.qmd
-      - text: "Publications"
+        file: pub2.qmd
+      - text: "Publ"
         file: pub.qmd
       - icon: github
         href: https://github.com/raziafrooz
