@@ -6,8 +6,6 @@
 
 -   **Bioconductor Conference** (BioC) 2023, Boston, MA. *Genotype calling from Recount3 RNA-seq data*
 
--   
-
 ## Poster Presentations:
 
 -   Human and mammalian genetics and genomics: The 64th McKusick short course (2023), Bar Harbor, ME. *Genotype calling from expression data in Recount3*
