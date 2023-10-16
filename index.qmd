@@ -28,3 +28,7 @@ I earned my Bachelor of Science degree in Cell Biology and Molecular Genetics at
 -   Co-organizer at [R-Ladies Baltimore](https://rladies-baltimore.github.io)
 
 -   Volunteer at [Bioconductor conference 2023](https://bioc2023.bioconductor.org)
+
+# Contact:
+
+arazi2\@jhmi.edu
