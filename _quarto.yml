@@ -13,6 +13,8 @@ website:
         file: present.qmd
       - text: "Publications"
         file: pub.qmd
+      - text: "Teaching"
+        file: teaching.qmd
       - icon: github
         href: https://github.com/raziafrooz
       - icon: twitter
